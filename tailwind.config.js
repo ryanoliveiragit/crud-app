@@ -10,7 +10,6 @@ module.exports = {
     'to-gray-700',
     'to-blue-700',
     'to-green-700',
-    
   ],
   theme: {
     extend: {},
